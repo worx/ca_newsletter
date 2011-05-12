@@ -13,7 +13,7 @@ $plugin = array(
 );
 
 /**
- * Settings form for the 'Worx: Blog node templates' access plugin ca_newsletter_node_template_access_settings.
+ * Settings form for the 'CA Newsletter: Newsletter node templates' access plugin ca_newsletter_node_template_access_settings.
  */
 function ca_newsletter_node_template_access_settings(&$form, &$form_state, $conf) {
   $form['settings']['ca_newsletter_node_template'] = array(
