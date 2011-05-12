@@ -1,0 +1,9 @@
+/* CA Newsletter CSS */
+  /* Template One */
+  #ca-newsletter-template-one .views-field-view-node {float: right; margin-right: 10px;}
+  #ca-newsletter-template-one .views-field-nothing {clear: both; margin-bottom: 10px; padding-bottom: 10px; border-bottom: 1px solid #D2D2D2;}
+  #ca-newsletter-template-one .views-row-last .views-field-nothing {border: none;}
+  .view-display-id-block_1 .view-content .views-field-view-node {text-align: right; margin-right: 10px;}
+  .view-display-id-block_1 .view-content .views-field-nothing {clear: both; margin-bottom: 10px; padding-bottom: 10px; border-bottom: 1px solid #D2D2D2;}
+  .view-display-id-block_1 .view-content .views-row-last .views-field-nothing {border: none;}
+
