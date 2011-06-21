@@ -44,7 +44,7 @@ function ca_newsletter_admin_settings_form() {
  *
  * This function will save the admin settings page.
  */
-function misc_admin_settings_form_submit($form, &$form_state) {
+function ca_newsletter_admin_settings_form_submit($form, &$form_state) {
   variable_set('ca_newsletter_list_template', $form_state['values']['ca_newsletter_list']);
   variable_set('ca_newsletter_node_template', $form_state['values']['ca_newsletter_node']);
   drupal_set_message('Configuration has been saved.');
